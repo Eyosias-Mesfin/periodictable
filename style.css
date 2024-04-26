@@ -1,0 +1,875 @@
+.title{
+  color: aqua;
+  align-items: center;
+  margin-left: 45%;
+  font-weight: bold;
+  font-size: 40px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: 5%;
+  animation-name: animate;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  margin-top: 0px;
+  margin-bottom: 2px;
+
+}
+.table{
+  margin-left: 10%;
+  color: black;
+  font-weight: 700;
+  border-radius: 5px;
+  border: none;
+  animation-name: animate;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-iteration-count: 1; 
+} 
+.uo{
+  overflow: hidden;
+  width: 920px;
+  background-color: black; 
+  height:60px;
+  margin-left: 130px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+} 
+.uo div{
+  float: left;
+  width: auto;
+  overflow: hidden; 
+  padding:20px 20px 20px 20px; 
+  margin:0;  
+  color: white; 
+ 
+} 
+
+.jo span{
+  padding:6px 6px;
+  background-color: blue; 
+  border-radius: 50px;
+  margin-right: 10px;
+  } 
+.mo span{
+  padding-left:6px; 
+  padding-top:6px;
+  padding-bottom:6px; 
+  padding-right:6px;
+  background-color:orange;  
+  border-radius: 50px;
+  margin-right: 10px;
+} 
+.no span{
+  padding:6px 6px;
+  background-color: purple; 
+  border-radius: 50px; 
+  margin-right: 10px;
+} 
+.to span{
+  padding:6px 6px;
+  background-color:aqua;  
+  border-radius: 50px;  
+  margin-right: 10px;
+} 
+.bo span{
+  padding:6px 6px;
+  background-color: yellow;  
+  border-radius: 50px; 
+  margin-right: 10px;
+} 
+.do span{
+  padding:6px 6px;
+  background-color: red; 
+  border-radius: 50px; 
+  margin-right: 10px;
+}
+.ao span{
+  padding:6px 6px;
+  background-color: lightblue; 
+  border-radius: 50px; 
+  margin-right: 10px;
+} 
+.lo span{
+  padding:6px 6px;
+  background-color: green; 
+  border-radius: 50px; 
+  margin-right: 10px;
+} 
+.yo span{
+  padding:6px 6px;
+  background-color: rgb(107, 76, 76); 
+  border-radius: 50px;
+  margin-right: 10px;
+} 
+.eo span{
+  padding:6px 6px;
+  background-color: pink; 
+  border-radius: 50px; 
+  margin-right: 10px;
+} 
+.ko span{
+  padding:6px 6px;
+  background-color: palevioletred; 
+  border-radius: 50px; 
+  margin-right: 10px;
+
+} 
+.hg {
+  overflow: hidden;
+  width: 920px;
+  background-color: black; 
+  height:60px;
+  margin-left: 130px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}    
+.hg div{
+  float: left;
+  width: auto;
+  overflow: hidden; 
+  padding:20px 20px 20px 20px; 
+  margin:0;  
+  color: white; 
+}
+.period{
+  color: white;
+  border: none;
+  padding-top: 40px;
+  width: 15px;
+  padding-right: 0px;
+  padding-left: 32px;
+  
+}   
+
+body{
+ background-image: url(img1.jpg);
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+  background-attachment: fixed;
+}
+td{
+  border: 2px solid rgba(77, 77, 251, 0.7);
+  width: 43px;
+  border-radius: 4px;
+  padding-left: 3px;
+}
+.hydrogen:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.hydrogen-n{
+  text-decoration: none;
+  color: black;
+}
+.helium-n{
+  text-decoration: none;
+  color: black;
+}
+.lithium-n{
+  text-decoration: none;
+  color: black;
+}
+.beryllium-n{
+  text-decoration: none;
+  color: black;
+}
+.boron-n{
+  text-decoration: none;
+  color: black;
+}
+.carbon-n{
+  text-decoration: none;
+  color: black;
+}
+.nitrogen-n{
+  text-decoration: none;
+  color: black;
+}
+.oxygen-n{
+  text-decoration: none;
+  color: black;
+}
+.fluorine-n{
+  text-decoration: none;
+  color: black;
+}
+.neon-n{
+  text-decoration: none;
+  color: black;
+}
+.sodium-n{
+  text-decoration: none;
+  color: black;
+}
+.magnesium-n{
+  text-decoration: none;
+  color: black;
+}
+
+.IIV{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center; 
+}
+.empty{
+  border: none;
+} 
+.Lithium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.sodium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.potassium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.rubidium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.cesium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.francium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.beryllium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.magnesium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.calcium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.strontium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.barium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.radium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.IIIB{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+  
+}
+.lanthanide{
+  color: black;
+  background-color: aqua;
+}
+.actinide{
+  color: black;
+  background-color: lightblue;
+}
+.scandium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.yttrium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.lanthanide:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.actinide:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.IVB{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.s{
+  font-size: 15px;
+}
+.titanium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.zirconium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.hafnium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.rutherfordium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.vanadium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.niobium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.tantalum:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.dubnium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.VB{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.VIB{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.chromium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.molybdenum:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.tungsten:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.seaborgium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.VIIB{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.manganese:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.technetium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.rhenium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.bohrium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.VIIIB{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+  
+}
+.iron:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.cobalt:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.nickel:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.ruthenium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.rhodium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.palladium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.osmium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.iridium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.platinum:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.hassium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.meitnerium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.darmstadtium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.IB{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.copper:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.silver:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.gold:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.roentgenium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.IIB{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.IIIA{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.boron{
+  background-color: palevioletred;
+}
+.boron:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.aluminum:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.gallium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.zinc:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.cadmium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.mercury:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.copernicium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.indium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.thallium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.ununtrium{
+  background-color: rgb(107, 76, 76);
+}
+.ununtrium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.IVA{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.carbon:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.silicon{
+  background-color: palevioletred;
+}
+.silicon:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.germanium{
+  background-color: palevioletred;
+}
+.germanium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.tin:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.lead:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.flerovium{
+  background-color: rgb(107, 76, 76);
+}
+.flerovium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.VA{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.nitrogen:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.phosphorus:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.arsenic{
+  background-color: palevioletred;
+}
+.arsenic:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.antimony{
+  background-color: palevioletred;
+}
+.antimony:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.bismuth:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.ununpentium{
+  background-color: rgb(107, 76, 76);
+}
+.ununpentium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.VIA{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.oxygen:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.sulfur:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.selenium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.tellurium{
+  background-color: palevioletred;
+}
+.tellurium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.polonium{
+  background-color: palevioletred;
+}
+.polonium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.livermorium{
+  background-color:rgb(107, 76, 76) ;
+}
+.livermorium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.VIIA{
+  font-size: 15px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+.fluorine:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.chlorine:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.bromine:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.iodine:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.astatine:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.ununseptium{
+  background-color: rgb(107, 76, 76);
+}
+.ununseptium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+
+.helium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.neon:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.argon:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.krypton:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.xenon:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.radon:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.ununoctium{
+  background-color: rgb(107, 76, 76);
+}
+.ununoctium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.empty-y{
+ border: none;
+}
+.lanthanum:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.cerium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.neodymium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.praseodymium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.promethium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.samarium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.europium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.gadolinium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.terbium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.dysprosium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.holmium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.erbium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.thulium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.ytterbium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.lutetium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.actinium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.thorium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.protactinium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.uranium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.neptunium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.plutonium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.americium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.curium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.berkelium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.californium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.einsteinium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.fermium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.mendelevium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.nobelium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.lawrencium:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
+.IA ,.VIIIA{
+  color: white;
+  border: none;
+  padding-left: 10px;
+}
+.a{
+  color: aqua;
+    text-decoration-line: none;
+}
+
+.button{
+  width: 110px;
+  background-color:#0a68f6;
+  border: 1px solid #0a68f6;
+  border-radius: 7px;
+  height: 30px;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-top: 0%;
+  margin-left: 1%;
+
+  
+}
+.button:hover{
+  background-color: #031e48;
+  color: aqua;
+}
+@keyframes animate{
+  0%{
+      margin-top: -30%;
+      
+  }
+  100%{
+      margin-top: 0%;
+  }
+}
+
+
+
+
+
+
+
+
+
+

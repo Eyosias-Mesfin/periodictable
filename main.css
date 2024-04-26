@@ -1,0 +1,40 @@
+body{
+    background-image: url(img1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: rgb(233, 239, 239);
+}
+.title{
+    text-align: center;
+    font-weight: 900;
+    margin-top: 18%;
+    font-size: 70px;
+    color: aqua;
+    
+}
+
+.b{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+    background-color: black;
+    border: 1px solid rgb(16, 16, 16);
+    border-radius: 30px;
+    height: 60px;
+    width: 300px;
+    font-size: 30px;
+}
+.a{
+    text-align: center;
+    
+    background-color: black;
+   margin-left: 40%;
+   
+
+    
+}
+.b:hover{
+    background-color: aqua;
+    color: black;
+}
